@@ -4,7 +4,7 @@
 
 - Goto the desired folder
 - Fork this repo from github
-- Goto to this repo in your acc
+- Goto to this repo in your account
 - Clone your repo
   - Goto your repo
     `npm i`
